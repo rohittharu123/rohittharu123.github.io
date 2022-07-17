@@ -179,13 +179,13 @@ html[light-mode="dark"] .socialicon{
    FACEBOOK MICROANIMATION
 ---------------------------
 */
-.facebook-logo {
+.facebook-icon {
   fill: none;
   stroke: #EF4649;
   display: inline-block;
   width: 20px;
   height: 20px;
-  background: #0000;
+  background: #000;
   padding: 10px; /* your icon's total width & height is 40px  */
   border-radius: 8px;
 }
