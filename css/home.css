@@ -188,7 +188,7 @@ html[light-mode="dark"] .socialicon{
   background: #000;
    
 
-  padding: 10px; /* your icon's total width & height is 40px  */
+  padding: 20px; /* your icon's total width & height is 40px  */
   border-radius: 8px;
 }
 
