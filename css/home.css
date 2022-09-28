@@ -122,6 +122,11 @@ a.socialicon {
   justify-content: center;
   flex-flow: row wrap;
 }
+.SvgImage img{ width: 70%; 
+display: block;
+margin: auto;
+}
+
 .socialicon{
   display: flex;
   position: relative;
@@ -180,11 +185,11 @@ html[light-mode="dark"] .socialicon{
 ---------------------------
 */
 .facebook-icon {
-   fill: none;
+  fill: none;
   stroke: #EF4649;
-  display: inline-block;
-  width: 30px;
-  height: 30px;
+  display:inline-block;
+  width: 60px;
+  height: 60px;
   background: #000;
    
 
